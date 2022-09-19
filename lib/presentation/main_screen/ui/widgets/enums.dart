@@ -1,0 +1,4 @@
+enum Auto {
+  redactor,
+  add,
+}
